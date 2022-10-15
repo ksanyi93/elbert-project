@@ -7,9 +7,9 @@
 
   <body id="page-top">
 
-	@include('layout.partials.nav')
+	@include('layout.admin.nav_admin')
 
-  @include('layout.partials.header')
+  {{-- @include('layout.partials.header') --}}
 
 {{--   @include('layout.partials.services')
 

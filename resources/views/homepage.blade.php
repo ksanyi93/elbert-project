@@ -1,6 +1,6 @@
 @extends('layout.mainlayout')
 
-{{-- @section('content')
+@section('content')
     <div class="album text-muted">
       <div class="container">
 
@@ -10,4 +10,4 @@
 		</div>
       </div>
     </div>
-@endsection --}}
+@endsection
